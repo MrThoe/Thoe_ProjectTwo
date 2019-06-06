@@ -6,5 +6,5 @@ public int addSix(n){
 
 public void black(){
     System.out.println("Black");
-}
+    System.out.print(addSix(5));
 }
